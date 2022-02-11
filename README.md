@@ -32,7 +32,7 @@ print("Swapped values are:",a,b)
 ```
 ## OUTPUT:
 
-![output](./output.png)
+![output](./Output.png)
 
 
 
